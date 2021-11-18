@@ -1,0 +1,3 @@
+[submodule "Analyse"]
+	path = TINF20CS1-Analyse
+	url = https://github.com/PatchRequest/TINF20CS1-Analyse.git
