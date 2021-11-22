@@ -1,3 +1,6 @@
 [submodule "Analyse"]
 	path = Analyse
 	url = https://github.com/PatchRequest/TINF20CS1-Analyse.git
+[submodule "Alarmierung & UI"]
+	path = Alarmierung & UI
+	url = https://github.com/arne-kapell/sksf-alerting.git
