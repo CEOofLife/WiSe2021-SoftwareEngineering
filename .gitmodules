@@ -4,3 +4,6 @@
 [submodule "Alarmierung & UI"]
 	path = Alarmierung & UI
 	url = https://github.com/arne-kapell/sksf-alerting.git
+[submodule "Forwarding-and-Collection"]
+	path = Forwarding-and-Collection
+	url = https://github.com/Vincent200355/Forwarding-and-Collection.git
